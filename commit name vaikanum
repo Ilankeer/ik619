@@ -1,0 +1,7 @@
+class ilan
+{
+public static void main (String [] args)
+{
+sout("hi this is ilan");
+}
+}
